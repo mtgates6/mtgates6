@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthew Gates</h1>
-- 👨‍💻 All of my projects are available at [https://matthew-gates-portfolio.lovable.app/](https://matthew-gates-portfolio.lovable.app/)
+- 👨‍💻 All of my projects are available at [https://matthew-gates-portfolio.lovable.app/]
 
 - 📫 How to reach me **mtgates6@gmail.com**
 
-- 📄 Know about my experiences [https://matthew-gates-portfolio.lovable.app/MatthewGatesDevResume.pdf](https://matthew-gates-portfolio.lovable.app/MatthewGatesDevResume.pdf)
+- 📄 Know about my experiences (https://matthew-gates-portfolio.lovable.app/MatthewGatesDevResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
